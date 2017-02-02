@@ -1,7 +1,7 @@
 ##R-Programming - Assignment 2 - Lexical Scoping 
 
 ## The following functions will create a special matrix and will calculate the inverse of that matrix
-## by caching it if it's already been calculated
+## by caching it if it has already been calculated
 
 
 ## This function creates a special matrix, which in essence is a list
